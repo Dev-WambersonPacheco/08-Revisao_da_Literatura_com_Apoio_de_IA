@@ -12,7 +12,7 @@
   | 5 | How is computer vision used in remote photoplethysmography for cardiovascular parameter estimation? | Como a visão computacional é utilizada na fotopletismografia remota para estimar parâmetros cardiovasculares? |
   | 6 | What are the main challenges in using rPPG and machine learning for blood pressure and heart rate monitoring? | Quais são os principais desafios no uso de rPPG e aprendizado de máquina para o monitoramento da pressão arterial e da frequência cardíaca? |
 
-## Strings de busca utilizadas pela ferramenta  
+### Strings de busca utilizadas pela ferramenta  
   | Nº | String de Busca (Original) | Tradução / Interpretação (Português) |
   |----|---------------------------|--------------------------------------|
   | 1 | "remote photoplethysmography" OR rPPG "machine learning" "heart rate" "blood pressure" | "fotopletismografia remota" OU rPPG "aprendizado de máquina" "frequência cardíaca" "pressão arterial" |
@@ -21,7 +21,7 @@
   | 4 | all:rPPG+AND+all:machine+learning+AND+all:heart+rate | todos os campos: rPPG E todos os campos: aprendizado de máquina E todos os campos: frequência cardíaca |
   | 5 | all:remote+photoplethysmography+AND+all:blood+pressure+AND+all:computer+vision | todos os campos: fotopletismografia remota E todos os campos: pressão arterial E todos os campos: visão computacional |
 
-## 8 artigos escolhidos 
+### artigos escolhidos 
 | Título                                                                                                                                     | Fonte         | Ano  | Relevance Score | Relevance Tag   |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ---- | --------------- | --------------- |
 | Contactless Blood Pressure Measurement via Remote Photoplethysmography with Synthetic Data Generation Using Generative Adversarial Network | IEEE          | 2022 | 100/100         | Highly Relevant |
@@ -34,7 +34,7 @@
 | FREQ2TIME: WEAKLY SUPERVISED LEARNING OF CAMERA-BASED RPPG FROM HEART RATE                                                                 | IEEE          | 2024 | 100/100         | Highly Relevant |
 
 
-## Revisão da literatura 
+### Revisão da literatura 
 
 ### 1. Descrição do Problema
 A Fotopletismografia Remota (rPPG) é uma técnica de monitoramento sem contato que utiliza câmeras convencionais (RGB) para detectar variações sutis na reflectância da pele causadas pelo ciclo cardíaco. Quando o coração bate, o volume de sangue nos capilares faciais muda, alterando a absorção de luz.
@@ -76,7 +76,6 @@ Generalização de Domínio: Modelos treinados em laboratório frequentemente pe
 
 
 ### Referências Principais:
-## Referências Principais
 
 1. RAO, G. N.; BHARGAV, D. (2025).  
    **Remote Heart Rate Estimation Using Deep Learning-Based RPPG Models.**  
@@ -97,7 +96,7 @@ Generalização de Domínio: Modelos treinados em laboratório frequentemente pe
 ---
 
 ## NotebookLM
-## 1. Resumo Estruturado
+### 1. Resumo Estruturado
 
 ### Técnicas de Aprendizado de Máquina
 As **Redes Neurais Convolucionais 3D (3D CNNs)** são amplamente utilizadas devido à sua capacidade de capturar simultaneamente informações espaciais e temporais em vídeos faciais. Redes recorrentes, como **LSTM**, são empregadas para modelar dependências sequenciais em sinais fisiológicos, especialmente em aplicações de pressão arterial. Mais recentemente, **Transformers** vêm sendo integrados para capturar relações globais de longo alcance, superando limitações das CNNs. Além disso, **Redes Adversariais Generativas (GANs)** são utilizadas para gerar dados sintéticos e mitigar a escassez de dados biométricos.
@@ -128,7 +127,7 @@ As métricas mais utilizadas são:
 - **Desvio padrão (SD)**
 - Critérios clínicos como **AAMI**
 
-## 2. Tabela Comparativa
+### 2. Tabela Comparativa
 
 ## Tabela Comparativa Completa (8 Artigos)
 
