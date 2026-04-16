@@ -1,1 +1,22 @@
 # 08-Revisao_da_Literatura_com_Apoio_de_IA
+# Sumário
+
+- [Monitoramento Não Invasivo de Frequência Cardíaca e Pressão Arterial via Fotopletismografia Remota (rPPG) e Visão Computacional](#monitoramento-não-invasivo-de-frequência-cardíaca-e-pressão-arterial-via-fotopletismografia-remota-rppg-e-visão-computacional)
+  - [SciSpace](#scispace)
+    - [Questões de pesquisa geradas](#questões-de-pesquisa-geradas)
+    - [Strings de busca utilizadas pela ferramenta](#strings-de-busca-utilizadas-pela-ferramenta)
+    - [Artigos escolhidos](#artigos-escolhidos)
+    - [Revisão da literatura](#revisão-da-literatura)
+    - [1. Descrição do Problema](#1-descrição-do-problema)
+    - [2. Áreas de Aplicação](#2-áreas-de-aplicação)
+    - [3. Tipos de Tarefas de Aprendizado de Máquina](#3-tipos-de-tarefas-de-aprendizado-de-máquina)
+    - [4. Principais Desafios na Literatura](#4-principais-desafios-na-literatura)
+    - [Referências Principais](#referências-principais)
+  - [NotebookLM](#notebooklm)
+    - [1. Resumo Estruturado](#1-resumo-estruturado)
+    - [Técnicas de Aprendizado de Máquina](#técnicas-de-aprendizado-de-máquina)
+    - [Atributos (Features) Frequentes](#atributos-features-frequentes)
+    - [Principais Desafios](#principais-desafios)
+    - [Técnicas de Pré-processamento](#técnicas-de-pré-processamento)
+    - [Métricas de Avaliação](#métricas-de-avaliação)
+    - [2. Tabela Comparativa](#2-tabela-comparativa)
