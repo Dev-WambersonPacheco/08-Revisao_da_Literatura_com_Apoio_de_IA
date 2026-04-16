@@ -82,3 +82,6 @@ Generalização de Domínio: Modelos treinados em laboratório frequentemente pe
 4. MA, X. (2020).  
    **Towards a Contactless Vital Sign System.**  
    *University of Ottawa.*
+
+
+Contactless Blood Pressure Measurement Via Remote Photoplethysmography With Synthetic Data Generation Using Generative Adversarial Networks
